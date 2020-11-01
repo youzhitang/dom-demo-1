@@ -6,4 +6,4 @@ dom对象风格完整版
 `yarn global add parcel` 或者 `npm i -g parcel`
 
 使用
-```parcel src/index.html```
+`parcel src/index.html`
